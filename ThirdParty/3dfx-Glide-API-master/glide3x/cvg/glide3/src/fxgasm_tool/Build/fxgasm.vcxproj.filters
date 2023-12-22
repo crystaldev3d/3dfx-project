@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Projects\3Dfx\Glide3xProject2\ThirdParty\3dfx-Glide-API-master\glide3x\cvg\glide3\src\fxgasm_tool\src\fxgasm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\3Dfx\Glide3xProject2\ThirdParty\3dfx-Glide-API-master\glide3x\cvg\glide3\src\fxgasm_tool\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{393A3993-ED68-3B71-97E0-3943C8F3AF29}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

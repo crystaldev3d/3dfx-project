@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "name": "Win64",
+            "includePath": [
+                "${workspaceFolder}/Sources/**",
+                "${workspaceFolder}/ThirdParty/3dfx-Glide-API-master/glide3x/cvg/glide3/src/**",
+                "${workspaceFolder}/ThirdParty/3dfx-Glide-API-master/glide3x/cvg/incsrc/**",
+                "${workspaceFolder}/ThirdParty/3dfx-Glide-API-master/swlibs/fxmisc/**",
+                "${workspaceFolder}/ThirdParty//tinyobjloader-release/**",
+                "${workspaceFolder}/ThirdParty/cglm-master/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22000.0",
+            "compilerPath": "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.34.31933/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/Sources/**",
+                    "${workspaceFolder}/ThirdParty/3dfx-Glide-API-master/glide3x/cvg/glide3/src",
+                    "${workspaceFolder}/ThirdParty/3dfx-Glide-API-master/glide3x/cvg/incsrc/**",
+                    "${workspaceFolder}/ThirdParty/3dfx-Glide-API-master/swlibs/fxmisc/**",
+                    "${workspaceFolder}/ThirdParty//tinyobjloader-release/**",
+                    "${workspaceFolder}/ThirdParty/cglm-master/include"
+                ]
+            },
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}

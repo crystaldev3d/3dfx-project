@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\3Dfx\Glide3xProject2\ThirdParty\3dfx-Glide-API-master\glide3x\cvg\glide3\src\fxgasm_tool\bin\CMakeFiles\5c34b32017aea9ec7dc0988d4ff11705\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CA90A0EA-ED6E-340A-B245-AD48DC1400CB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

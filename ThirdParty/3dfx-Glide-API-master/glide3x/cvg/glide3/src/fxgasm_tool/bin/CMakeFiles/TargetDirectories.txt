@@ -1,0 +1,3 @@
+C:/Projects/3Dfx/Glide3xProject2/ThirdParty/3dfx-Glide-API-master/glide3x/cvg/glide3/src/fxgasm_tool/bin/CMakeFiles/fxgasm.dir
+C:/Projects/3Dfx/Glide3xProject2/ThirdParty/3dfx-Glide-API-master/glide3x/cvg/glide3/src/fxgasm_tool/bin/CMakeFiles/ALL_BUILD.dir
+C:/Projects/3Dfx/Glide3xProject2/ThirdParty/3dfx-Glide-API-master/glide3x/cvg/glide3/src/fxgasm_tool/bin/CMakeFiles/ZERO_CHECK.dir
